@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -1044,4 +1044,9 @@ h4 {
 .fontup
 {
     font-size: 22px!important;
+}
+
+.backcorr
+{
+    background-color: rgba(165, 147, 99, 0.7);
 }
